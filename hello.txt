@@ -1,3 +1,3 @@
 HELLO WORLD
-halló heimur
-HALLO VERLD
+halló heimur?
+HALLO VERLD?
